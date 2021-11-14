@@ -6,6 +6,6 @@
 	</head>
 
 	<body>
-		<h1>Failure</h1>
+		<h1>Success</h1>
 	</body>
 </html>
